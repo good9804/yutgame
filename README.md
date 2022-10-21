@@ -8,4 +8,8 @@
 <img width="483" alt="image" src="https://user-images.githubusercontent.com/51435556/197177206-a38b59a6-9971-44ba-8421-68d8143001c8.png">
 
 -다양한 상황에서 메시지박스 출력-
-<img width="401" alt="image" src="https://user-images.githubusercontent.com/51435556/197177378-a2920c28-cc9d-47f6-890c-afb8a7bec786.png">
+<img width="89" alt="image" src="https://user-images.githubusercontent.com/51435556/197177487-a21c3238-63c2-4e81-96f5-04a7670c998b.png">
+<img width="155" alt="image" src="https://user-images.githubusercontent.com/51435556/197177498-d193f0ae-6265-4428-8317-05416bfd6ecf.png">
+<img width="116" alt="image" src="https://user-images.githubusercontent.com/51435556/197177509-5b17b706-e3e8-448f-9a78-94b991d7cd8d.png">
+
+
